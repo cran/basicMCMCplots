@@ -1,5 +1,6 @@
-75a09fbfbf4f60293c28f41609d35be8 *DESCRIPTION
-86bf647e668513eab39cdfa5aa7e7041 *NAMESPACE
-79f806f9fc6b8162f4232fc8a8832674 *R/plots.R
-f18165912e9970d9b01e9c3d6f01512d *man/chainsPlot.Rd
-b464c6ebe3933bad9b59fcbca06efbf4 *man/samplesPlot.Rd
+8833ddb333137ae8f9ab21e5c2fba0e2 *DESCRIPTION
+48befa2c495f7dc6d5e5bcf46e70b9a8 *NAMESPACE
+4bf6ecb4878e6864c0c61e870f599048 *R/plots.R
+3f0b8959e29842037654d776b3976b29 *man/chainsPlot.Rd
+1c0ab437036c3900d9d6d7680b5ae3ef *man/chainsSummary.Rd
+d2de5dfa0ee9abf212d3aaa5ea832802 *man/samplesPlot.Rd
